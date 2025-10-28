@@ -1,0 +1,2 @@
+1. use make to compile executable file in each folder
+2. Run the executable file to get the result
